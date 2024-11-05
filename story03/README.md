@@ -1,0 +1,6 @@
+- Functions
+    - Defining and calling functions
+    - Arguments and return values
+    - Lambda functions
+- Scope and namespaces
+- Error handling (try/except)
