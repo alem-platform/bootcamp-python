@@ -1,0 +1,8 @@
+- Python Basics
+    - Variables and data types
+    - Operators
+    - Control structures (if, else, loops)
+- Basic input/output operations
+- Simple algorithms
+    - Implement a function to calculate factorial
+    - Create a program to generate Fibonacci sequence
