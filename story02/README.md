@@ -1,0 +1,7 @@
+- Data Structures
+    - Lists
+    - Tuples
+    - Dictionaries
+    - Sets
+- List comprehensions
+- Implement custom sorting function
